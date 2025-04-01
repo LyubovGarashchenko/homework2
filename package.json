@@ -1,0 +1,19 @@
+{
+  "name": "homwork2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyubovGarashchenko/homework2.git"
+  },
+  "author": "Lyubov Garashchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyubovGarashchenko/homework2/issues"
+  },
+  "homepage": "https://github.com/LyubovGarashchenko/homework2#readme",
+  "description": ""
+}
