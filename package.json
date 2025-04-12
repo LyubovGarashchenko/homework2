@@ -15,5 +15,19 @@
     "url": "https://github.com/LyubovGarashchenko/homework2/issues"
   },
   "homepage": "https://github.com/LyubovGarashchenko/homework2#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "babel-eslint": "^10.1.0",
+    "cypress": "^14.2.1",
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-prettier": "^5.2.6",
+    "globals": "^16.0.0",
+    "prettier": "3.5.3"
+  },
+  "dependencies": {
+    "@cloud-ru/ft-config-prettier": "^1.1.2",
+    "eslint-config-js": "^5.0.0"
+  }
 }
