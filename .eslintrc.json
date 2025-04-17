@@ -1,4 +1,5 @@
 {
+    "root": true,
     "env": {
         "browser": true,
         "es2021": true,
@@ -12,7 +13,7 @@
     },
     "plugins": ["prettier"],
     "rules": {
-            
+            "prettier/prettier": "error",
             "arrow-body-style": "off",
             "prefer-arrow-callback": "off",
             "constructor-super": "error", // проверка вызова super() в конструкторе
@@ -76,8 +77,6 @@
             "require-yield": "error", // требовать yield для функции-генератора
             "use-isnan": "error", // требовать isNaN() для проверки NaN
             "valid-typeof": "error", // требовать для typeof допустимых строк "string", "undefined", "object"
-            
-        "prettier/prettier": "error",
         "linebreak-style": ["error", "windows"], // символ(ы) конца строки
         "quotes": ["error", "single"], // использовать одинарные кавычки
         "semi": ["error", "always"], // точка с запятой в конце операторов
